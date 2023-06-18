@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "v6aBiuv7fv96cdhNJ9n41s5QK4bOYDDA2cbuydSvn/2ZHILe/7tw+s0iiNHTc/0KOQ0GIpbRgblXzF88nVXXIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asusl\\source\\repos\\FasilitasKamar\\FasilitasKamar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asusl\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\asusl\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\asusl\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
